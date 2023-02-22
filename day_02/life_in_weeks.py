@@ -24,4 +24,4 @@ days_left = number_of_days_total - number_of_days_user
 weeks_left = number_of_weeks_total - number_of_weeks_user
 months_left = number_of_months_total - number_of_months_user
 
-print(f'You have {days_left} days, {weeks_left} weeks, and {months_left} months left.')
+print(f'You have {days_left} days, {weeks_left} weeks, and {months_left} months left until you\'re 90 years old.')
