@@ -23,6 +23,7 @@ split = new_total / number_of_people
 
 # round it off
 split = round(split, 2)
+split = '{:.2f}'.format(split)
 
 # display the output
 print(f'Each person should pay: ${split}')
