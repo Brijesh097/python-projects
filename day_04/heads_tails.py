@@ -6,6 +6,6 @@ random_side = random.randint(0, 1)
 
 # check the conditions
 if random_side == 1:
-    print("Heads")
+    print(random_side, "- Heads")
 else:
-    print("Tails")
+    print(random_side, "- Tails")
